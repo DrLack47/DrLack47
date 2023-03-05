@@ -16,7 +16,13 @@
 |ls      |Gives a list of files.           |
 |cat     |Shows the file content.          |
 |clear   |Clean the terminal.              |
-### Useful Alias 
+### Useful Aliases 
+```
+alias cl='clear'
+```
+```
+alias f='find . |grep '
+```
 |Aliases|    Description    |
 |-------|-------------------|
 |cl     |Clean the terminal.|
