@@ -1,4 +1,4 @@
-# AY yo take a look
+# Hi, take a look
 ## I’m currently learning...
 - 🎓 JavaScript on [**Undefined Academy**](https://undefined.academy/) for been a Full-Stack developer. 
 - 🤓 English (B1) and Colombian Sing Language (B1)
