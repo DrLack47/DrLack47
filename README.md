@@ -1,16 +1,23 @@
-### Hi there 👋
-
-<!--
-**DrLack47/DrLack47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# AY yo take a look
+## I’m currently learning...
+- 🎓 JavaScript on [**Undefined Academy**](https://undefined.academy/) for been a Full-Stack developer. 
+- 🤓 English (B1) and Colombian Sing Language (B1)
+## Hobbies
+- 🏐Volley and Basket🏀
+- 📚Languages
+- 📽Thriller
+## Contact me
+- 📧 danielcampo314@gmail.com
+## Bootcamp exercise
+### Learned Commands
+|Comandos|           Description           |
+|--------|---------------------------------|
+|cd      |Allows to change between folders.|
+|ls      |Gives a list of files.           |
+|cat     |Shows the file content.          |
+|clear   |Clean the terminal.              |
+### Useful Alias 
+|Aliases|    Description    |
+|-------|-------------------|
+|cl     |Clean the terminal.|
+|f      |Search a file.     |
